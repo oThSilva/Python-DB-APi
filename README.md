@@ -1,0 +1,2 @@
+A Python DB-API (Database Application Programming Interface) é uma especificação para interfaces de bancos de dados, fornecendo uma forma padronizada de acessar e manipular bancos de dados relacionais em Python. A DB-API é definida pelo PEP 249 e é amplamente adotada por módulos de banco de dados em Python, como sqlite3, MySQLdb, psycopg2 (PostgreSQL), entre outros.
+Link da PEP 249: https://peps.python.org/pep-0249/
