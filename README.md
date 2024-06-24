@@ -1,2 +1,24 @@
-A Python DB-API (Database Application Programming Interface) é uma especificação para interfaces de bancos de dados, fornecendo uma forma padronizada de acessar e manipular bancos de dados relacionais em Python. A DB-API é definida pelo PEP 249 e é amplamente adotada por módulos de banco de dados em Python, como sqlite3, MySQLdb, psycopg2 (PostgreSQL), entre outros.
-Link da PEP 249: https://peps.python.org/pep-0249/
+# Banco de Dados SQLite3
+
+## Descrição
+Este projeto é um sistema de gerenciamento de clientes utilizando o banco de dados SQLite3. Foi desenvolvido com o framework Python DB API para demonstrar a manipulação de dados em um banco de dados relacional.
+
+## Funcionalidades
+O sistema oferece as seguintes funcionalidades:
+- **Criar cliente**: Adicionar um novo cliente ao banco de dados.
+- **Criar tabela**: Configurar a estrutura da tabela de clientes no banco de dados.
+- **Atualizar registros**: Modificar as informações de um cliente existente.
+- **Excluir registros**: Remover um cliente do banco de dados.
+- **Inserir muitos**: Adicionar múltiplos clientes de uma vez.
+- **Consultar cliente**: Buscar e visualizar as informações de um cliente específico.
+- **Listar clientes**: Listar todos os clientes cadastrados no banco de dados.
+
+## Tecnologias Utilizadas
+- **Linguagem**: Python
+- **Banco de Dados**: SQLite3
+- **Framework**: Python DB API
+
+
+## Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
