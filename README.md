@@ -1,7 +1,7 @@
 # Banco de Dados SQLite3
 
 ## Descrição
-Este projeto é um sistema de gerenciamento de clientes utilizando o banco de dados SQLite3. Foi desenvolvido com o framework Python DB API para demonstrar a manipulação de dados em um banco de dados relacional.
+Desenvolvi um sistema de gerenciamento de clientes utilizando o banco de dados SQLite3. Foi desenvolvido com o framework Python DB API para demonstrar a manipulação de dados em um banco de dados relacional.
 
 ## Funcionalidades
 O sistema oferece as seguintes funcionalidades:
